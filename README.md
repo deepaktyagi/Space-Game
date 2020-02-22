@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dt185137/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/deepaktyagi.Space-Game?branchName=master)](https://dev.azure.com/dt185137/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
